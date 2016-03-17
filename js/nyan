@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+'use strict'
+
+var c =('skilstak-colors')
+
+while(true) {
+  console.log(c.multi +  'Meow Meow Meow Meow');
+}
